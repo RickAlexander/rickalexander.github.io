@@ -12,6 +12,8 @@ deploy
 ./deploy
 ```
 
+or `GitHub Action`
+
 ## Thanks
 
 * [chesterhow/tale](https://github.com/chesterhow/tale)
