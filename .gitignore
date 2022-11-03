@@ -3,6 +3,7 @@
 
 # folders
 public/
+# resources/
 
 # files
 .hugo_build.lock
