@@ -2,7 +2,6 @@
 
 > Personal Blog
 
-* [https://stuarthua.github.io/](https://stuarthua.github.io/)
 * [https://blog.stuarthua.com/](https://blog.stuarthua.com/)
 
 ## Usage
