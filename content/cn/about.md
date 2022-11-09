@@ -10,8 +10,8 @@ draft: false
 ### Contact
 
 * [GitHub](https://github.com/stuarthua)
-* [Email](mailto:me@stuarthua.com)
-* <a target="_blank" href="https://t.me/stuarthua">Telegram</a>
+* [Email](mailto:stuarthua@duck.com)
+* <a target="_blank" href="https://keybase.io/stuarthua#_">Keybase.io</a>
 
 ### Freedom
 
