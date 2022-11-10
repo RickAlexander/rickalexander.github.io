@@ -1,7 +1,7 @@
 ---
 title: "Mac 高效使用指南（一）：系统配置优化"
 date: 2018-09-01
-draft: false
+draft: true
 categories: ['技术']
 ---
 

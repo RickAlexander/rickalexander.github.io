@@ -1,7 +1,7 @@
 ---
 title: "Mac 高效使用指南（二）：打造高效终端 zsh、oh-my-zsh、iterm2、tumx"
 date: 2018-09-02
-draft: false
+draft: true
 categories: ['技术']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mac Python 入门"
 date: 2018-10-25
-draft: false
+draft: true
 categories: ['技术']
 ---
 

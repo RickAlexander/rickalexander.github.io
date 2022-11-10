@@ -1,7 +1,7 @@
 ---
 title: "Mac 高效使用指南（三）：SSH 的配置与管理"
 date: 2018-09-03
-draft: false
+draft: true
 categories: ['技术']
 ---
 

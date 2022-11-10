@@ -1,7 +1,7 @@
 ---
 title: "Mac 高效使用指南（四）：Alfred 使用"
 date: 2018-09-04
-draft: false
+draft: true
 categories: ['技术']
 ---
 
