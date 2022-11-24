@@ -62,9 +62,6 @@ googleAnalytics = "UA-55082727-2"
   #  name = "EN"
   #  link = "/en/"
   [[params.socials]]
-    name = "Notes"
-    link = "/notes/"
-  [[params.socials]]
     name = "LinuxMind"
     link = "/linux-mind/"
   [[params.socials]]
